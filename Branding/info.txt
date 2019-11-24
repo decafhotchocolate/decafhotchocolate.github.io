@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Reislust
+font link: http://www.fontspace.com/ketjupmandja/reislust
+font author: Ihsan Habib
+font author site: https://www.instagram.com/ihsanhbib/
+Slogan Font: Neuton-Extralight.ttf
+
+icon designer: Creative Stall
+icon designer link: /creativestall
+        
+{"bg":"#594F40","icon":"#DA4F39","font":"#ffffff","slogan":"#ffffff"}
+      
